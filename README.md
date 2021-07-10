@@ -6,4 +6,4 @@ Make sure Go is installed on your system
 go run goDocker.go
 
 # Future Additions
-Later, containerization functionality will be added (hence the name, goDocker.go)
+Later, containerization functionality will be added
