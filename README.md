@@ -13,7 +13,7 @@ Install the Docker engine on your system
 
 Use the Dockerfile in docker/ to build the Docker image (docker build --tag <imageName> .*)
   
-* refers to the current directory where the Dockerfile is located along with the Go code
+\* refers to the current directory where the Dockerfile is located along with the Go code
  
 Use the command "docker run -p <IP:Port:Port> <imageName>" to run the container
   
