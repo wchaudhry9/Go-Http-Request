@@ -18,6 +18,3 @@ Use the Dockerfile in docker/ to build the Docker image (docker build --tag <ima
 Use the command "docker run -p <IP:Port:Port> <imageName>" to run the container
   
 You can either curl the container or try accessing the exposed port via your web browser
-
-# Future Additions
-k8s coming soon
